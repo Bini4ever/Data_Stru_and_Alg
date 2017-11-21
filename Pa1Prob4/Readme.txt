@@ -1,0 +1,1 @@
+the code could be compile and run by saying “./run.sh ” following by your input text file name; and for output it will create a text file - “output.txt”. I wasn’t able to have recursive buckets but I used array or arrays with 26 buckets with each holding unto 10 items.

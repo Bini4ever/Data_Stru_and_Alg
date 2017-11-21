@@ -1,0 +1,1 @@
+the code could be compile and run by saying “./run.sh input.txt”; and for output it will create a text file - “output.txt”
